@@ -8,5 +8,7 @@
 
 # Finance Report :
 - Project Objective
+
 1.Create Profit and Loss (P&L) reports by [Fiscal year and Months](https://github.com/Jayeshm93/Sales_Finance_Analytics_Excel/blob/033377b027babb12a575c6c4470a68903169dbe7/P%20%26%20L%20Fiscal%20Year%20%26%20month%20report.xlsx)
-2.Create Profit and Loss (P&L) reports by [Market]()
+
+2.Create Profit and Loss (P&L) reports by [Markets](https://github.com/Jayeshm93/Sales_Finance_Analytics_Excel/blob/367939b6fdcdf8f0aab9530392d2bb5a455cfd3e/P%20%26%20L%20Statement%20By%20Market.xlsx)
