@@ -23,3 +23,9 @@
 
 
   2.Create Profit and Loss (P&L) reports by [Markets](https://github.com/Jayeshm93/Sales_Finance_Analytics_Excel/blob/367939b6fdcdf8f0aab9530392d2bb5a455cfd3e/P%20%26%20L%20Statement%20By%20Market.xlsx)
+
+- Evaluation of financial performance, helps decisions making for stakeholders by using fiscal year,month and markets.
+
+- Aid to financing against industry competitors, previous periods foundation budgeting and forecasting.
+
+- Arrange financial planning and strategic goals and also organization.
