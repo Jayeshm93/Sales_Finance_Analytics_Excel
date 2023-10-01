@@ -29,3 +29,11 @@
 - Aid to financing against industry competitors, previous periods foundation budgeting and forecasting.
 
 - Arrange financial planning and strategic goals and also organization.
+
+# Technical and Soft Skills:
+
+- Proficiency in ETL (Extract Transform and Load).
+- create data table and fiscal year using power query.
+- Developed Data Model relationships with Power Pivot.
+- Generated business matrics in calculed columns using DAX.
+- Learnt Domain knowledge by summarize different Reports.
